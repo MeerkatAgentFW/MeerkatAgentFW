@@ -1,14 +1,10 @@
 <div align="center">
 
-![Logo of CrewAI, two people rowing on a boat](./docs/crewai_logo.png)
+# **MeerkatAgentFW**
 
-# **CrewAI**
-
-🤖 **CrewAI**: Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+🤖 **MeerkatAgentFW**: Cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, MeerkatAgentFWAI empowers agents to work together seamlessly, tackling complex tasks.
 
 <h3>
-
-[Homepage](https://www.crewai.com/) | [Documentation](https://docs.crewai.com/) | [Chat with Docs](https://chatg.pt/DWjSBZn) | [Examples](https://github.com/crewAIInc/crewAI-examples) | [Discourse](https://community.crewai.com)
 
 </h3>
 
