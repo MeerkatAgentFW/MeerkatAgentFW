@@ -1,7 +1,5 @@
 [MeerkatAgentFW](https://x.com/MeerkatAgentFW)
 
-
-
 <div align="center">
 
 # **MeerkatAgentFW**
@@ -273,5 +271,3 @@ In addition to the sequential process, you can use the hierarchical process, whi
 - **Works with Open Source Models**: Run your crew using Open AI or open source models refer to the [Connect MeerkatAgentFW to LLMs](https://docs.meerkatagentfw.com/how-to/LLM-Connections/) page for details on configuring your agents' connections to models, even ones running locally!
 
 ![MeerkatAgentFW Mind Map](./docs/meerkatagentfw-mindmap.png "MeerkatAgentFW Mind Map")
-
-
