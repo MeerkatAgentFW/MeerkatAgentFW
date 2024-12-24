@@ -274,43 +274,4 @@ In addition to the sequential process, you can use the hierarchical process, whi
 
 ![MeerkatAgentFW Mind Map](./docs/meerkatagentfw-mindmap.png "MeerkatAgentFW Mind Map")
 
-## Examples
 
-You can test different real life examples of AI crews in the [MeerkatAgentFW-examples repo](https://github.com/meerkatagentfwInc/meerkatagentfw-examples?tab=readme-ov-file):
-
-- [Landing Page Generator](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/landing_page_generator)
-- [Having Human input on the execution](https://docs.meerkatagentfw.com/how-to/Human-Input-on-Execution)
-- [Trip Planner](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/trip_planner)
-- [Stock Analysis](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/stock_analysis)
-
-### Quick Tutorial
-
-[![MeerkatAgentFW Tutorial](https://img.youtube.com/vi/tnejrr-0a94/maxresdefault.jpg)](https://www.youtube.com/watch?v=tnejrr-0a94 "MeerkatAgentFW Tutorial")
-
-### Write Job Descriptions
-
-[Check out code for this example](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/job-posting) or watch a video below:
-
-[![Jobs postings](https://img.youtube.com/vi/u98wEMz-9to/maxresdefault.jpg)](https://www.youtube.com/watch?v=u98wEMz-9to "Jobs postings")
-
-### Trip Planner
-
-[Check out code for this example](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/trip_planner) or watch a video below:
-
-[![Trip Planner](https://img.youtube.com/vi/xis7rWp-hjs/maxresdefault.jpg)](https://www.youtube.com/watch?v=xis7rWp-hjs "Trip Planner")
-
-### Stock Analysis
-
-[Check out code for this example](https://github.com/meerkatagentfwInc/meerkatagentfw-examples/tree/main/stock_analysis) or watch a video below:
-
-[![Stock Analysis](https://img.youtube.com/vi/e0Uj4yWdaAg/maxresdefault.jpg)](https://www.youtube.com/watch?v=e0Uj4yWdaAg "Stock Analysis")
-
-## Connecting Your Crew to a Model
-
-MeerkatAgentFW supports using various LLMs through a variety of connection options. By default your agents will use the OpenAI API when querying the model. However, there are several other ways to allow your agents to connect to models. For example, you can configure your agents to use a local model via the Ollama tool.
-
-Please refer to the [Connect MeerkatAgentFW to LLMs](https://docs.meerkatagentfw.com/how-to/LLM-Connections/) page for details on configuring you agents' connections to models.
-
-## How MeerkatAgentFW Compares
-
-**MeerkatAgentFW's Advantage**: MeerkatAgentFW is built with production in mind.
