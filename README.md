@@ -1,3 +1,7 @@
+<a href="https://twitter.com/MeerkatAgentFW" class="twitter-follow-button" data-show-count="false">Follow @SEU_PERFIL_TWITTER</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Here's the updated version with **MeerkatAgentFW** replacing all instances of **CrewAI**:
 
 ---
