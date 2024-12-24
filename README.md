@@ -1,5 +1,4 @@
-[![MeerkatAgentFW]([https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Twitter_logo_and_wordmark_2021.svg/320px-Twitter_logo_and_wordmark_2021.svg.png](https://br.freepik.com/fotos-vetores-gratis/logotipo-twitter-x))](https://x.com/MeerkatAgentFW)
-
+[![MeerkatAgentFW]
 
 
 <div align="center">
