@@ -1,11 +1,6 @@
-[![MeerkatAgentFW no X](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Twitter_logo_and_wordmark_2021.svg/320px-Twitter_logo_and_wordmark_2021.svg.png)](https://x.com/MeerkatAgentFW)
+[![MeerkatAgentFW](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Twitter_logo_and_wordmark_2021.svg/320px-Twitter_logo_and_wordmark_2021.svg.png)](https://x.com/MeerkatAgentFW)
 
 
-
-
-Here's the updated version with **MeerkatAgentFW** replacing all instances of **CrewAI**:
-
----
 
 <div align="center">
 
